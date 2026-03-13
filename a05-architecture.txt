@@ -14,4 +14,3 @@ Resource Group (westus3)
 
 Internet → Public IP → NIC → VM
 
-Note: Replace this file with a05-architecture.png created using draw.io or similar tool.
